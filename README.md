@@ -115,12 +115,11 @@ Silhouette Score, Davies-Bouldin Index and Calinski-Harabasz Index, plus a K-Mea
 ## Project Structure
 ```
 customer-segmentation-unsupervised-learning/
-├── CustomerSegmentation_UnsupervisedLearning.ipynb   # fully executed notebook
+├── CustomerSegmentation_UL.ipynb   # fully executed notebook
 ├── rfm_scaler.pkl                                    # saved StandardScaler
 ├── customer_segmentation_model.pkl                   # saved K-Means model
 ├── summary_report.md                                 # short written report
 ├── requirements.txt                                  # dependencies
-├── images/                                           # screenshots used in this README
 └── README.md
 ```
 
