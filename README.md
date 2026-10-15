@@ -104,16 +104,16 @@ Silhouette Score, Davies-Bouldin Index and Calinski-Harabasz Index, plus a K-Mea
 ## Screenshots
 
 | Elbow and Silhouette (K-Means) | Dendrogram (Ward) |
-|---|---|
-| ![Elbow](<img width="1263" height="487" alt="image" src="https://github.com/user-attachments/assets/3c6ff371-ca3e-4469-a7b1-12b20c8fb32b" />
-) | ![Dendrogram](<img width="1257" height="593" alt="image" src="https://github.com/user-attachments/assets/5ee8dc2c-2358-4cd0-8037-8e1e1255dcc9" />
-) |
+
+<img width="1263" height="487" alt="image" src="https://github.com/user-attachments/assets/3c6ff371-ca3e-4469-a7b1-12b20c8fb32b" />
+<img width="1257" height="593" alt="image" src="https://github.com/user-attachments/assets/5ee8dc2c-2358-4cd0-8037-8e1e1255dcc9" />
+
 
 | k-NN distance plot (DBSCAN) | K-Means 3D clusters |
-|---|---|
-| ![kNN](<img width="857" height="473" alt="image" src="https://github.com/user-attachments/assets/939035f9-054d-4348-a273-6c5bbf17f949" />
-) | ![KMeans 3D](<img width="727" height="717" alt="image" src="https://github.com/user-attachments/assets/549c0d72-e871-48bd-aad8-cdaade5a68a4" />
-) |
+
+<img width="857" height="473" alt="image" src="https://github.com/user-attachments/assets/939035f9-054d-4348-a273-6c5bbf17f949" />
+<img width="727" height="717" alt="image" src="https://github.com/user-attachments/assets/549c0d72-e871-48bd-aad8-cdaade5a68a4" />
+
 
 ## Project Structure
 ```
